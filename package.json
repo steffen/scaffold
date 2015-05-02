@@ -1,11 +1,11 @@
 {
     "name": "scaffold",
     "type": "code",
-    "creator": "anonymous",
-    "summary": "Short summary",
-    "detailedDescription": "Long description of package",
-    "version": "1.0.0",
-    "compatVersion": "1.0.0",
+    "creator": "Steffen Hiller",
+    "summary": "Scaffold package for Ext JS",
+    "detailedDescription": "The Scaffold package for Ext JS builds customizable grids and forms based on model information that can come from a server.",
+    "version": "0.1.0",
+    "compatVersion": "0.1.0",
     "format": "1",
     "slicer": {
         "js": [
